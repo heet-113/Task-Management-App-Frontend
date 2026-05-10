@@ -2,7 +2,7 @@
   "name": "task-management-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://heet-113.github.io/Task-Management-App",
+  "homepage": "https://heet-113.github.io/Task-Management-App-Frontend",
   "proxy": "http://localhost:2000",
   "dependencies": {
     "react": "^18.2.0",
